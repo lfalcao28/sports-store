@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MVCGenericLibrary.Model.Repository.LinqToSqlRepository&lt;TEntity, TKey&gt;">
+    <Position X="0.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAIAAAAAAAgBAAAAAAAQAAAEAQAAAAkAAAAAAAAA=</HashCode>
+      <FileName>Repository\LinqToSqlRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MVCGenericLibrary.Model.Repository.IRepository&lt;TEntity, TKey&gt;">
+    <Position X="3" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAIAAAAAAAABAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Repository\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

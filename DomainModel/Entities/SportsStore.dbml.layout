@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SportsStore">
+  <DataContextMoniker Name="/SportsStoreDataContext" />
+  <nestedChildShapes>
+    <classShape Id="62bbfe16-89fe-4e39-a47c-9c1fe8778423" absoluteBounds="2.5, 2.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/SportsStoreDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6176e3f9-ccc3-41f0-bc72-b4c07233510a" absoluteBounds="2.515, 2.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e084f2d0-9f1a-4814-b0f7-7d9fcdc616ac" absoluteBounds="5.25, 2.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/SportsStoreDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3961a6e-3942-47db-a51b-8207133fcd76" absoluteBounds="5.265, 3.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.25 : 3.47199625651042); (4.5 : 3.47199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/SportsStoreDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="e084f2d0-9f1a-4814-b0f7-7d9fcdc616ac" />
+        <classShapeMoniker Id="62bbfe16-89fe-4e39-a47c-9c1fe8778423" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance">
+    <Position X="5.25" Y="0.75" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance.ViewMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PresentationModels\ModelInstance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance.Member" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PresentationModels\ModelInstance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance.MemberSingleValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PresentationModels\ModelInstance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance.MemberMultipleValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PresentationModels\ModelInstance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MVCGenericLibrary.Controller.PresentationModels.ModelInstance.MemberList&lt;TMember&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PresentationModels\ModelInstance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAEAAgBAQAAAAIAQAAAAAAAAABQAAEAAAAAAA=</HashCode>
+      <FileName>PresentationModels\ModelInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
